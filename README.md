@@ -4,6 +4,7 @@
 | /\ | \/ | | || \/ | \_/ | /\ || | | | \/ | | ' |
 |_||_|\__/  |_| \__/|_| |_|_||_||_| |_|\__/|_|\__|
 ```
+test change for buddy.works
 
 Introduction to CI/CD and Automation using [Buddy](https://buddy.works).
 
